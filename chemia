@@ -1,0 +1,4 @@
+cd path/to/page
+git add .
+git commit -m "Add PDF file to the project"
+git push
